@@ -1,0 +1,4 @@
+Flask==2.2.2
+joblib==1.2.0
+Werkzeug==2.2.3
+# if you used scikit-learn or others, list them here
